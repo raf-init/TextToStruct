@@ -52,5 +52,5 @@ project/
 ```
 
 ## Roadmap
-- [ ] Add support for other file formats (e.g., JSON, CSV).
+- [x] Add support for other file formats (e.g., JSON, CSV).
 - [ ] Add a web interface for easier user interaction.
