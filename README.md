@@ -7,7 +7,7 @@ A Python-based project that leverages prompt engineering with Gemini to extract 
 ## Features
 - Extract text from unstructured PDF files.
 - Leverage Gemini AI for ontology-based prompt engineering.
-- Convert structured data to OWL/Turtle format for semantic analysis.
+- Convert structured data to JSON/TTL format for semantic analysis.
 - Fully customizable and extensible with other ontologies.
 
 ---
