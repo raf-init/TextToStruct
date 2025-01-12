@@ -136,7 +136,7 @@ def extract_json_from_response(response):
 # Extract TTL data from the LLM response
 def extract_ttl_from_response(response):
     try:
-        # Initialize variable to store Turtle data
+        # Initialize variable to store TTL data
         ttl_data = ""
 
         # Check for 'candidates' in response
