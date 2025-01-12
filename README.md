@@ -25,10 +25,12 @@ A Python-based project that leverages prompt engineering with Gemini to extract 
 1. Clone this repository:
    ```bash
    git clone https://github.com/raf-init/TextToStruct.git
-2. Navigate to the project directory:
+2. Download the d2kg.owl file from: http://w3id.org/d2kg
+3. Download the desired pdf files from: [diavgeia.gov.gr](https://diavgeia.gov.gr/)
+4. Navigate to the project directory:
    ```bash
    cd TextToStruct
-3. Run the main script:
+5. Run the main script:
    ```
    python main.py
 ---
