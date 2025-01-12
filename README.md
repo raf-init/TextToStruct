@@ -1,5 +1,5 @@
 # TextToStruct
-A Python-based project that leverages prompt engineering with Gemini to extract structured data from unstructured PDF files and convert it into OWL format for semantic interoperability and advanced data analysis.
+A Python-based project that leverages prompt engineering with Gemini to extract structured data from unstructured PDF files using a defined schema and convert it into certain formats for semantic interoperability and advanced data analysis.
 
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
