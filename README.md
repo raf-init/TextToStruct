@@ -49,6 +49,8 @@ project/
 ├── file2.pdf             # Second .pdf to process
 ├── file1.tll             # First .ttl output
 ├── file2.ttl             # Second .ttl output
+├── file1.json            # First .json output
+├── file2.json            # Second .json output
 ```
 
 ## Roadmap
