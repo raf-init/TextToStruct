@@ -53,4 +53,5 @@ project/
 
 ## Roadmap
 - [x] Add support for other file formats (e.g., JSON, CSV).
+- [x] Use also the imported ontologies and not only the main ontology.
 - [ ] Add a web interface for easier user interaction.
