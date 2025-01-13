@@ -43,7 +43,6 @@ def query_llm_for_json_structured_data(text, ontology):
     Text:
     {text}
 
-    Provide the output in JSON format:
     """
 
     try:
@@ -69,7 +68,6 @@ def query_llm_for_ttl_structured_data(text, ontology):
     Text:
     {text}
 
-    Provide the output in Turtle format:
     """
 
     try:
